@@ -1,0 +1,10 @@
+slack-bolt==1.18.1
+python-decouple==3.8
+argparse==1.4.0
+
+# for hugging face
+diffusers==0.27.2
+accelerate==0.29.2
+transformers==4.39.3
+torch
+transformers[sentencepiece]
